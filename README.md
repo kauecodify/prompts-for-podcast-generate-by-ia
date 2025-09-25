@@ -81,4 +81,6 @@ O material é útil para quem busca melhorar a coerência, a precisão e a aplic
 
 Este projeto está disponível sob a licença **MIT**.
 
+by sommelier :p
+
 ---
