@@ -73,6 +73,10 @@ O material é útil para quem busca melhorar a coerência, a precisão e a aplic
 
 ---
 
+<img width="2492" height="3060" alt="@cairescodify---palavras-para-prompts (3)" src="https://github.com/user-attachments/assets/cea3d6b1-0d93-4bd0-93a2-136b2d237be0" />
+
+---
+
 ## 📜 Licença
 
 Este projeto está disponível sob a licença **MIT**.
