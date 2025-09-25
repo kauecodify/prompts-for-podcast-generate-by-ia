@@ -5,6 +5,11 @@ Este projeto apresenta um guia prático sobre **tipologia de dados** aplicada à
 ---
 
 elevenlabs em breve...
+
+## 🎥 IA Text to Speech de Demonstração
+
+[![Assista ao vídeo](ElevenLabs.mp4)]
+
 ---
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ffbf9f87-cdea-4783-88b4-e738f4eb28e0" />
