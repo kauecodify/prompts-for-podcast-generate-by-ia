@@ -10,6 +10,8 @@ elevenlabs em breve...
 
 [![Assista ao vídeo](ElevenLabs.mp4)]
 
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/69d08ee1-ce39-48be-9a24-c168fe8261f0" />
+
 ---
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ffbf9f87-cdea-4783-88b4-e738f4eb28e0" />
