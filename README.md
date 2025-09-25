@@ -4,6 +4,10 @@ Este projeto apresenta um guia prático sobre **tipologia de dados** aplicada à
 
 ---
 
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ffbf9f87-cdea-4783-88b4-e738f4eb28e0" />
+
+---
+
 ## 🔎 Visão Geral
 
 A proposta é oferecer uma **abordagem estruturada** para compreender e aplicar os principais tipos de dados (numéricos, textuais, categóricos etc.) no desenvolvimento de prompts.  
